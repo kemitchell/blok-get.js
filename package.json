@@ -1,9 +1,8 @@
 { "name": "blok-get",
   "version": "0.0.0",
   "license": "MIT",
-  "dependencies": {
-    "blok-parse": "kemitchell/blok-parse.js" },
   "devDependencies": {
+    "blok-parse": "kemitchell/blok-parse.js",
     "blok-put": "kemitchell/blok-put.js",
     "is-sha-256-hex-digest": "kemitchell/is-sha-256-hex-digest.js",
     "levelup": "1.x",

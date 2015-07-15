@@ -1,6 +1,4 @@
-var parse = require('blok-parse')
-
-function blokGet(level, digest, callback) {
+function blokGet(level, parse, digest, callback) {
   level.get(digest, function(error, value) {
     if (error) {
       callback(error) }
