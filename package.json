@@ -4,7 +4,7 @@
   "devDependencies": {
     "blok-parse": "kemitchell/blok-parse.js",
     "blok-put": "kemitchell/blok-put.js",
-    "is-sha-256-hex-digest": "kemitchell/is-sha-256-hex-digest.js",
+    "is-sha-256-hex-digest": "1.x",
     "levelup": "1.x",
     "memdown": "1.x",
     "sha256": "0.2.x",
